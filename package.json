@@ -1,0 +1,19 @@
+{
+  "name": "myes6",
+  "version": "1.0.0",
+  "description": "this is for study es6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vivilian/myEs6.git"
+  },
+  "author": "liao yuting",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vivilian/myEs6/issues"
+  },
+  "homepage": "https://github.com/Vivilian/myEs6#readme"
+}
